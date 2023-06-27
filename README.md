@@ -33,7 +33,6 @@ The project uses a multi-level architecture, namely:
 5. Add new Tomcat local server configuration to your project, in Application server field specify the path to your tomcat:
 ![img_5.png](img_5.png)
 6. Write your properties to ConnectionUtil class in util package:
-
 ![img_2.png](img_2.png)
 7. Copy and run SQL script from resources/init_db.sql in order to create a schema and tables for the project
 8. Run the project
