@@ -1,7 +1,7 @@
 ﻿# taxi-service
 A project that shows my practical skills in the following things, Java, OOP, SOLID, JDBC, Java Web, JSP, JSTL, as well as SQL was used with relationship building.
 # Available functionality:
--register as a driver;
+- register as a driver;
 - login as driver;
 - create/update/delete a driver;
 - display all drivers
