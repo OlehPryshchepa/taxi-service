@@ -1,5 +1,5 @@
 ﻿# taxi-service
-A project that shows my practical skills in the following things, Java, OOP, SOLID, JDBC, Java Web, JSP, JSTL, as well as SQL was used with relationship building.
+A project that shows my practical skills in the following technologies, Java, OOP, SOLID, JDBC, Java Web, JSP, JSTL, as well as SQL was used with relationship building.
 # Available functionality:
 - register as a driver;
 - login as driver;
@@ -36,5 +36,5 @@ The project uses a multi-level architecture, namely:
 ![img_2.png](img_2.png)
 7. Copy and run SQL script from resources/init_db.sql in order to create a schema and tables for the project
 8. Run the project
-# Working version:
+# Demo version:
 - AWS: http://taxi-service-app-env.eba-vpsiqkim.eu-north-1.elasticbeanstalk.com/
